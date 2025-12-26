@@ -1,6 +1,6 @@
 # Hi there! I'm Matheus Augusto
 
-### Backend Developer | Specialist in Scalable Architectures & DevOps
+### Backend Developer
 
 I am a software developer with 4 years of experience and a primary focus on **Backend Development**, dedicated to building robust and high-performance systems. I have a strong background in managing infrastructure as code and automating delivery pipelines to the cloud.
 
