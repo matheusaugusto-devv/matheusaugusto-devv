@@ -8,7 +8,7 @@ I am a software developer with 4 years of experience and a primary focus on **Ba
 
 ### 🛠️ My Expertise
 
-* **Backend Development:** Building high-scale APIs and microservices using **Spring Boot**, **FastAPI**, and **Django**.
+* **Backend Development:** Building high-scale APIs, microservices and applications using **Spring Boot (Java)**, **FastAPI (Python)**, and **.NET (C#)**.
 * **Cloud & Infrastructure (IaaS):** Provisioning and managing cloud resources on **AWS** and **Google Cloud** using **Terraform** for reproducible infrastructure.
 * **CI/CD & Automation:** Automating build, test, and deployment workflows using **GitHub Actions** to ensure continuous integration and delivery.
 * **DevOps & Containers:** Proficient in containerizing applications with **Docker**, managing servers with **Linux**, and using **Nginx** as a reverse proxy.
@@ -26,6 +26,7 @@ I am a software developer with 4 years of experience and a primary focus on **Ba
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### 🏗️ Infrastructure as Code (IaaS) & CI/CD
